@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorZulu)](https://github.com/DoctorZulu/github-readme-stats)
+
 <!--
 **DoctorZulu/DoctorZulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
