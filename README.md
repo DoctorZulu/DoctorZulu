@@ -38,8 +38,8 @@ Techs:
 
 
 - 🔭 I’m currently working on ...
+- FlixAlways.com
 - React-Native ChatApp
-- Twitter Clone
 - Getting Hired! 😄
 
 <!--
