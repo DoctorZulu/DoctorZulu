@@ -8,14 +8,17 @@ Bases:
 ![Github](https://img.shields.io/badge/-Github-000000?logo=Github&style=for-the-badge&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-heroku-000000?logo=heroku&style=for-the-badge&logoColor=white)
+
+
 Languages:
 ![HTML](https://img.shields.io/badge/-Html-444444?logo=Html5&style=for-the-badge&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-444444?logo=CSS3&style=for-the-badge&logoColor=white)
 ![JS](https://img.shields.io/badge/-Javascript-444444?logo=Javascript&style=for-the-badge&logoColor=FFF361)
 ![Python](https://img.shields.io/badge/-python-444444?logo=Python&style=for-the-badge&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-444444?logo=Swift&style=for-the-badge&logoColor=orange)
 ![EJS](https://img.shields.io/badge/-ejs-444444?logo=EJS&style=for-the-badge&logoColor=mauve)
 ![Jinja](https://img.shields.io/badge/-Jinja-444444?logo=Jinja&style=for-the-badge&logoColor=red)
+
+
 Techs:
 ![React.Js](https://img.shields.io/badge/-react-6A6A6A?logo=React&style=for-the-badge&logoColor=8CEBEC)
 ![Vue.Js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
@@ -30,9 +33,7 @@ Techs:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A6A6A?logo=Bootstrap&style=for-the-badge&logoColor=purple)
 ![PSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![UE4](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-444444?logo=Blender&style=for-the-badge&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)
+
 
 
 
