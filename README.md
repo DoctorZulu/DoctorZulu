@@ -69,6 +69,10 @@ Techs:
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>
+ 
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
+  </a>
 
 
   <a href="https://hub.docker.com/">
@@ -80,6 +84,18 @@ Techs:
 
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" style="vertical-align:top; margin:4px">
+  </a>
+   
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" style="vertical-align:top; margin:4px">
+  </a>
+   
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" style="vertical-align:top; margin:4px">
+  </a>
+   
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="w3_html5" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
