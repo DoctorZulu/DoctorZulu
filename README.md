@@ -20,7 +20,7 @@ Languages:
 
 
 Techs:
-"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png
 ![React.Js](https://img.shields.io/badge/-react-6A6A6A?logo=React&style=for-the-badge&logoColor=8CEBEC)
 ![Vue.Js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Django](https://img.shields.io/badge/-Django-6A6A6A?logo=Django&style=for-the-badge&logoColor=blue)
