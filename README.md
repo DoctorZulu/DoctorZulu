@@ -46,23 +46,23 @@ Techs:
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
   </a>
  
-   <a href="">
+  <a href="">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   </a>
  
-    <a href="">
+  <a href="">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" style="vertical-align:top; margin:4px">
   </a>
  
-   <a href="">
+  <a href="">
     <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
   </a>
  
-    <a href="">
+  <a href="">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" style="vertical-align:top; margin:4px">
   </a>
  
-    <a href="">
+  <a href="">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="getbootstrap" style="vertical-align:top; margin:4px">
   </a>
 
