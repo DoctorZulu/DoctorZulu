@@ -43,7 +43,7 @@ Techs:
 <p align="center">
 
   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="">
