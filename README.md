@@ -57,7 +57,7 @@ Techs:
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
 
   <a href="">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-ar21.svg" alt="django" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
