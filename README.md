@@ -97,6 +97,10 @@ Techs:
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="w3_html5" style="vertical-align:top; margin:4px">
   </a>
+   
+   <a href="">
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="arduino" style="vertical-align:top; margin:4px">
+  </a>
 
 </p>
 <br/>
