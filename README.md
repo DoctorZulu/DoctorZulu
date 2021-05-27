@@ -30,6 +30,9 @@
   <a href="https://graphql.org/">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://www.apollographql.com/">
+    <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg" alt="apollographql" style="vertical-align:top; margin:4px">
+  </a>
  
   <a href="https://getbootstrap.com/">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="getbootstrap" style="vertical-align:top; margin:4px">
