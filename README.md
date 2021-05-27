@@ -56,7 +56,7 @@
   </a>
    
   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="" style="vertical-align:top; margin:4px">
   </a>
    
   <a href="">
