@@ -70,6 +70,10 @@
    <a href="https://www.arduino.cc/">
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="arduino" style="vertical-align:top; margin:4px">
   </a>
+   
+     <a href="https://golang.org/">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px">
+  </a>
 
 </p>
 <br/>
