@@ -83,9 +83,11 @@
 
 
 - 🔭 I’m currently working on ...
+- Lead Developer At Energy Design Systems YourVirtualHVAC.com and Ecoyork CompassWave.com
 - FlixAlways.com
 - React-Native ChatApp
-- Getting Hired! 😄
+- Much more!
+
 
 <!--
 **DoctorZulu/DoctorZulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
