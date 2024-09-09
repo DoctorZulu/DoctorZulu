@@ -83,9 +83,9 @@
 
 
 - 🔭 I’m currently working on ...
-- Lead Developer At Energy Design Systems YourVirtualHVAC.com and Ecoyork CompassWave.com
-- FlixAlways.com
-- React-Native ChatApp
+- Lead Developer At Energy Design Systems and Eco York
+- Learning embedded
+- Learning InfoSec and basic Red Teaming
 - Much more!
 
 
