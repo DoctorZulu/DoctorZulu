@@ -7,51 +7,51 @@ I'm a software developer with a passion for **embedded systems**, **application 
 </p>
 
 <p align="center">
-  <a href="https://www.javascript.com/">
+  <a href="https://www.javascript.com/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://nodejs.org/en/">
+  <a href="https://nodejs.org/en/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://reactjs.org/">
+  <a href="https://reactjs.org/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://www.mongodb.com/">
+  <a href="https://www.mongodb.com/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://hub.docker.com/">
+  <a href="https://hub.docker.com/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://kubernetes.io">
+  <a href="https://kubernetes.io" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.postgresql.org/">
+  <a href="https://www.postgresql.org/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.arduino.cc/">
+  <a href="https://www.arduino.cc/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="arduino" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://golang.org/">
+  <a href="https://golang.org/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://pytorch.org/">
+  <a href="https://pytorch.org/" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" style="vertical-align:top; margin:4px">
   </a>
 
