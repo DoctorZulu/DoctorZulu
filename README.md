@@ -1,7 +1,5 @@
 ### Hi there, welcome to my GitHub! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorZulu&show_icons=true&theme=radical&count_private=true)
-
 
 <p align="center"> 
  <strong>
