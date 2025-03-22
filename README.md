@@ -56,7 +56,7 @@ I'm a software developer with a passion for **embedded systems**, **application 
   </a>
 
   <a href="https://isocpp.org/">
-    <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg" alt="C++" style="vertical-align:top; margin:4px;">
+    <img src="[https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)" alt="C++" style="vertical-align:top; margin:4px;">
   </a>
 
 </p>
