@@ -31,10 +31,6 @@
   <a href="https://www.apollographql.com/">
     <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg" alt="apollographql" style="vertical-align:top; margin:4px">
   </a>
- 
-  <a href="https://getbootstrap.com/">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="getbootstrap" style="vertical-align:top; margin:4px">
-  </a>
 
   <a href="https://www.typescriptlang.org/">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
@@ -44,28 +40,16 @@
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
   </a>
 
-
   <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-
-  <a href="https://www.djangoproject.com/">
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" style="vertical-align:top; margin:4px">
-  </a>
-   
-  <a href="https://www.postman.com/">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" style="vertical-align:top; margin:4px">
   </a>
    
   <a href="https://www.postgresql.org/">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" style="vertical-align:top; margin:4px">
-  </a>
-   
-  <a href="https://www.w3schools.com/html/html_intro.asp#:~:text=HTML%20stands%20for%20Hyper%20Text,how%20to%20display%20the%20content">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="w3_html5" style="vertical-align:top; margin:4px">
   </a>
    
   <a href="https://www.arduino.cc/">
@@ -81,10 +65,10 @@
 
 
 - 🔭 I’m currently working on ...
-- Lead Developer At Energy Design Systems and Eco York
-- Learning embedded
-- Learning InfoSec and basic Red Teaming
-- Much more!
+- Embedded
+- Net Sec
+- C++
+- Machine Learning
 
 
 <!--
